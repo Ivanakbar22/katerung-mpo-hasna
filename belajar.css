@@ -26,7 +26,7 @@ html {
 }
 
 .li-navbar:hover {
-    background-color: green;
+    background-im: green;
     transition: .2s ease-in-out;
     transition-delay: .3s;
     border-radius: 10px;
@@ -40,6 +40,7 @@ html {
 
 .conten-1{
     background-color: greenyellow;
+    background-image: url(restaurant.webp);
     display: flex;
     gap: 2rem;
     justify-content: center;
@@ -50,6 +51,7 @@ html {
 
 .a-content {
     background-color:greenyellow ;
+    background-image: url(restaurant.webp);
     width: 100px;
     height: 100px;
     display: flex;
@@ -87,6 +89,7 @@ html {
 
 .about-me {
   background-color: #greenyellow;
+  background-image: url(restaurant.webp);
   padding: 60px 20px;
   display: flex;
   justify-content: center;
@@ -100,6 +103,7 @@ html {
   padding: 40px;
   border-radius: 10px;
   background: greenyellow;
+  background-image: url(restaurant.webp);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 
